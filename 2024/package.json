@@ -1,0 +1,12 @@
+{
+  "name": "advent-of-code-2024",
+  "version": "1.0.0",
+  "description": "Solutions of the quizzes of the advent of code 2024",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Orazio Ragusa",
+  "license": "ISC",
+  "type": "module"
+}
